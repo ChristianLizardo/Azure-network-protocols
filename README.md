@@ -38,7 +38,7 @@ When creating the VM, choose the previously created Resource Group and allow the
 
 ![IMG_1377](https://github.com/user-attachments/assets/eb66c426-b83a-4fa9-b221-f59e0b652281)
 
-## Step 3 : Create an Unbuntu VM 
+## Step 3 : Create an Ubuntu VM 
 
 When creating the VM, choose the previously created Resource Group and configure it to create a new Virtual Network (VNet) and Subnet. Ensure you select the password option under the Administrator Account section (not visible in the image).
 
@@ -52,7 +52,7 @@ When creating the VM, choose the previously created Resource Group and configure
 
 Remote into your Windows 10 Virtual Machine, install Wireshark, open it and filter for ICMP traffic only. If you are using a Mac like me, you'll have to download Microsoft Remote Desktop from the app store:
 
-Insert Image Here
+![IMG_1397](https://github.com/user-attachments/assets/839e2436-8d0b-4cce-9f61-30fa87ce2f0c)
 
 Retrieve the private IP address of the Ubuntu VM and attempt to ping it from within the Windows 10 VM. Observe ping requests and replies within WireShark:
 
