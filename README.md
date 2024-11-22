@@ -62,21 +62,21 @@ Retrieve the private IP address of the Ubuntu VM and attempt to ping it from wit
 
 Attempt to ping a public website (such as www.google.com) and observe the traffic in WireShark:
 
-Insert Image Here
+![IMG_1384](https://github.com/user-attachments/assets/61f2c75c-3296-4a17-826a-9b6f08f402a5)
 
 Initiate a perpetual/non-stop ping from your Windows 10 VM to your Ubuntu VM:
 
-Insert Image Here
+![IMG_1385](https://github.com/user-attachments/assets/9805c87b-9e88-41a7-adaf-ec74864c0ce4)
 
 Open the Network Security Group your Ubuntu VM is using and disable incoming (inbound) ICMP traffic, while back in the Windows 10 VM, observe the ICMP traffic in WireShark and the command line Ping activity:
 
-Insert Image Here
+![IMG_1386](https://github.com/user-attachments/assets/1d047b04-5b67-4967-ad15-604bfe6fba99)
 
-Insert Image Here
+![IMG_1387](https://github.com/user-attachments/assets/2e0bd9e4-01a0-4d93-8343-e068239630ba)
 
 Re-enable ICMP traffic for the Network Security Group in your Ubuntu VM and back in the Windows 10 VM, observe the ICMP traffic in WireShark and the command line ping activity (should start working again).Finally, stop the ping activity:
 
-Insert Image Here
+![IMG_1389](https://github.com/user-attachments/assets/5b3bce75-6da5-46c1-ab62-1f7c2ddbd162)
 
 <h1 align="center"> SSH Observation Traffic </h1>
 
