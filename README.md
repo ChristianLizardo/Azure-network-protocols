@@ -46,8 +46,7 @@ When creating the VM, choose the previously created Resource Group and configure
 
 ## Step 4 : Observe Your Virtual Network within Network Watcher:
 
-Insert Image Here
-
+![IMG_1379](https://github.com/user-attachments/assets/ee9aa9de-3966-48d4-a8c2-64f4e2a52272)
 
 <h1 align="center"> ICMP Traffic Observation </h1>
 
