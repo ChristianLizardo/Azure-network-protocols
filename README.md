@@ -56,9 +56,9 @@ Remote into your Windows 10 Virtual Machine, install Wireshark, open it and filt
 
 Retrieve the private IP address of the Ubuntu VM and attempt to ping it from within the Windows 10 VM. Observe ping requests and replies within WireShark:
 
-Insert Image Here
+![IMG_1382](https://github.com/user-attachments/assets/cf6da31d-cf9a-45dd-8190-db56efd9a012)
 
-Insert Image Here
+![IMG_1383](https://github.com/user-attachments/assets/48bcf645-049d-4b5f-a1c3-939a12b724b1)
 
 Attempt to ping a public website (such as www.google.com) and observe the traffic in WireShark:
 
