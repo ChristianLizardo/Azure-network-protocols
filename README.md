@@ -30,7 +30,7 @@ In this tutorial, we analyze network traffic to and from Azure Virtual Machines 
 
 ## Step 1 : Create a Resource Group
 
-Insert Image Here
+![image0-1](https://github.com/user-attachments/assets/56fecb7d-488e-45f4-ab54-ade2c3bcad0c)
 
 ## Step 2 : Create a Windows Virtual Machine 
 
