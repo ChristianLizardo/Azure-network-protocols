@@ -84,7 +84,7 @@ Back in Wireshark, filter for SSH traffic only and from your Windows 10 VM, “S
 
 Exit the SSH connection by typing ‘exit’ and pressing [return]:
 
-Insert Image Here
+![IMG_1391](https://github.com/user-attachments/assets/f1dc7f1f-97a4-465a-a497-9679c93fd0a7)
 
 <h1 align="center"> DHCP Observation Traffic </h1>
 
@@ -92,7 +92,7 @@ Back in Wireshark, filter for DHCP traffic only. From your Windows 10 VM, attemp
 
 Observe the DHCP traffic appearing in WireShark:
 
-Insert Image Here
+![IMG_1392](https://github.com/user-attachments/assets/858ec473-c3ce-4f67-8685-93643524c416)
 
 <h1 align="center"> DNS Observation Traffic </h1>
 
@@ -100,7 +100,7 @@ Back in Wireshark, filter for DNS traffic only.
 
 From your Windows 10 VM within a command line, use nslookup to see what google.com and disney.com’s IP addresses are and observe the DNS traffic being shown in WireShark:
 
-Insert Image here 
+![IMG_1394](https://github.com/user-attachments/assets/cf0e4150-897c-4c65-b400-cb5050e771f3)
 
 <h1 align="center"> RDP Observation Traffic </h1>
 
@@ -110,7 +110,7 @@ Oserve the immediate non-stop spam of traffic? Why is it non-stop spamming vs on
 
 The answer is because the RDP (protocol) is constantly showing you a live stream from one computer to another, therefor traffic is always being transmitted:
 
-Insert Image Here
+![IMG_1395](https://github.com/user-attachments/assets/eed61ae2-912d-48c8-9b5e-c98ae4f3bd77)
 
 <h1 align="center"> Conclusion and Analysis </h1>
 
