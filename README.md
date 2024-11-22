@@ -42,7 +42,7 @@ When creating the VM, choose the previously created Resource Group and allow the
 
 When creating the VM, choose the previously created Resource Group and configure it to create a new Virtual Network (VNet) and Subnet. Ensure you select the password option under the Administrator Account section (not visible in the image).
 
-![IMG_1377-1](https://github.com/user-attachments/assets/fbb02fc2-9ff4-49dc-9308-8350432a46fc)
+![IMG_1378](https://github.com/user-attachments/assets/911fd260-b301-4f59-84bb-5892057be0c5)
 
 ## Step 4 : Observe Your Virtual Network within Network Watcher:
 
