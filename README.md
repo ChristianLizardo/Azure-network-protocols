@@ -36,7 +36,7 @@ In this tutorial, we analyze network traffic to and from Azure Virtual Machines 
 
 When creating the VM, choose the previously created Resource Group and allow the system to generate a new Virtual Network (VNet) and Subnet. Ensure you select the password option under the Administrator Account section (not visible in the image).
 
-Insert Image Here
+![IMG_1377](https://github.com/user-attachments/assets/eb66c426-b83a-4fa9-b221-f59e0b652281)
 
 ## Step 3 : Create an Unbuntu VM 
 
